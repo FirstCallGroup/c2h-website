@@ -10,13 +10,12 @@
   "email": "service@c2h.com",
   "emailTodo": "Placeholder address — confirm with C2H or replace with the real general-dispatch email before launch. C2H's website lists a personal address (ryan.smith@firstcallmechanical.com) which we don't want on a public marketing page.",
   "address": {
-    "street": "1625 Lakes Parkway, Suite H",
-    "city": "Lawrenceville",
+    "street": "2150 Boggs Road, Suite 500",
+    "city": "Duluth",
     "state": "GA",
-    "zip": "30043"
+    "zip": "30096"
   },
-  "mapCoords": { "lat": 33.9562, "lng": -83.9879 },
-  "mapCoordsTodo": "Approximated from build-directory.js (Lawrenceville centroid). Refine to street-level if available.",
+  "mapCoords": { "lat": 33.9749, "lng": -84.1010 },
   "canonicalUrl": "https://c2h.com",
   "parentLink": "https://firstcallmechanical.com",
   "isExternalDomain": true,
